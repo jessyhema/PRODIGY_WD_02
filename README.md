@@ -44,9 +44,9 @@
 * The application can be further developed or customized to include additional features such as lap timing, countdown timers, or integration with other productivity tools.
 ###  Learning and Development:
 * From a developer’s perspective, building this application involves learning and implementing fundamental web development skills. It serves as a practical project to understand HTML, CSS, and JavaScript better.
-## Stopwatch Web Application is a functional, user-friendly, and versatile tool that serves a broad range of purposes, enhancing both usability and productivity for its users.
+# Stopwatch Web Application is a functional, user-friendly, and versatile tool that serves a broad range of purposes, enhancing both usability and productivity for its users.
 
-## Stopwatch Web Application link:
+# Stopwatch Web Application link:https://github.com/jessyhema/PRODIGY_WD_02#prodigy_wd_02stopwatch-web-application
 
 ## Image of the StopWatch Web Application:
 ![stopwatch](https://github.com/jessyhema/PRODIGY_WD_02/assets/143420058/e28cf700-96d8-45f8-adc3-62da50a291cb)
